@@ -3,5 +3,6 @@ main(){
 	printf("HELLO WORLD\n");
 	char name[20];
 	printf("Enter your name: ");
+printf("Enter your name: ");
 	scanf("%s",name[20]);
 }
